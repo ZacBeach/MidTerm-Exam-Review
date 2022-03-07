@@ -1,0 +1,1 @@
+print("One of my hobbys is playing video games")
